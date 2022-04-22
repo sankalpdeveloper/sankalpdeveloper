@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpdeveloper" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sankalp199911" target="blank"><img src="https://img.shields.io/twitter/follow/sankalp199911?logo=twitter&style=for-the-badge" alt="sankalp199911" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sankalp199911" target="blank"><img src="https://img.shields.io/twitter/follow/sankalp19991?logo=twitter&style=for-the-badge" alt="sankalp199911" /></a> </p>
 
 - 🌱 I’m currently learning **Angular**
 
